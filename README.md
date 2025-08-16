@@ -43,6 +43,7 @@ Welcome to **TensorSight**, a cutting-edge **AI-powered image recognition system
 git clone [repo-link]
 cd TensorSight
 pip install -r requirements.txt
+//train the model first
 python gradio_app_final.py
 ```
 - The Gradio web interface will launch in your browser at http://localhost:7860 (or specified port).
