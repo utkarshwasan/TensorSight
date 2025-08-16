@@ -1,0 +1,10 @@
+tensorflow>=2.10
+numpy
+opencv-python
+gradio>=4.0.0
+Pillow
+matplotlib
+pandas
+scikit-learn
+streamlit
+

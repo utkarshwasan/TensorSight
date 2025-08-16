@@ -1,0 +1,4 @@
+timestamp,source,top1_label,top1_score,top2_label,top2_score,top3_label,top3_score
+2025-08-07T23:41:44.645636+00:00,image_upload,garlic,0.956351,soy beans,0.029775,ginger,0.008965
+2025-08-07T23:41:52.854811+00:00,image_upload,lettuce,0.997746,cabbage,0.001434,peas,0.000353
+2025-08-07T23:42:30.508940+00:00,image_upload,lettuce,0.986165,peas,0.006813,spinach,0.003388
